@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/dandgadmin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dandgadmin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dandgadmin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/thailotteryway/build" />
+      <excludeFolder url="file://$MODULE_DIR$/thailotteryway/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/thailotteryway/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dandguser/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/dandguser/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dandguser/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myorchardwebadmin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/myorchardwebadmin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myorchardwebadmin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/myorchard/build" />
+      <excludeFolder url="file://$MODULE_DIR$/myorchard/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/myorchard/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
